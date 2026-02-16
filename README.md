@@ -10,7 +10,8 @@ KPI's :
 4. Average rating
 
 Graphical Representation on:
-1. Total sales by fat content
+1. Total sales by fat content: From the pie chart, we can see that Low Fat products sales 65% of the total sales, while the Regular fat products sales 35% of the total sales. That means customers prefer Low Fat products more than Regular fat products.
+
 2. Total sales by item type
 3. Fat content by outlet for total sales
 4. Total sales by outlet establishment
